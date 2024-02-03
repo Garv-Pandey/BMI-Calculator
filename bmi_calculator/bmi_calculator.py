@@ -23,7 +23,7 @@ def main():
         return
 
     print(
-        """Comparision Table:
+        """Comparison Table:
 <18.5   \tUnder Weight
 18.5-24.9 \tNormal
 25-29.9 \tOver Weight
