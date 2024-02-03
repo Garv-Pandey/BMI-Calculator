@@ -16,7 +16,7 @@ def main():
     elif measure_sys == 1:
         height = int(input("Height (inches)= "))
         weight = int(input("Weight (punds)= "))
-        print("\BMI = ", bmi_calculator(measure_sys, weight, height))
+        print("BMI = ", bmi_calculator(measure_sys, weight, height))
 
     else:
         print("Invalid Input")
